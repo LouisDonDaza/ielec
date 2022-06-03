@@ -1,0 +1,17 @@
+body {
+  margin:0;
+}
+.primary--bg {
+  background-color: #a25139;
+  border-color: #a25139;
+}
+.primary--bg:hover {
+  background-color: #edb66e;
+  border-color: #edb66e;
+}
+.grey--bg{
+  background-color:white; /*#ddddde; 5B518A 4d1417 bghover 423778*/
+}
+.text--color{
+  text-decoration-color: #4e5069;
+}
